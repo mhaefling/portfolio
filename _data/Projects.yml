@@ -2,20 +2,25 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "[Herbal Blends](https://github.com/mhaefling/herbal-blends-fe)"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Herbal Blends is a full-stack application designed for a small tea business offering weekly and monthly subscription plans. The application manages subscriptions, teas, and customer data, providing a seamless experience for both the business and its customers.
+      - Developed a Rails API backend with CRUD functionality for managing
+      - Subscriptions, Customers, Teas – Create, view, update (deactivate), and list all subscriptions.
+      - Built a React-based user interface with modular components for
+      - Displaying all available teas, Listing all customers and their subscription details, Viewing all active subscriptions, including tea types, subscribed customers, renewal frequency (weekly or monthly), and pricing.
+      - Enabled subscription detail views, allowing users to click and explore the full details of any subscription.
+
+  - title: "[Rancid-Tomatillos](https://github.com/mhaefling/rancid-tomatillos)"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Developed a React frontend to display movie posters dynamically retrieved from a backend API.
+      - Implemented state management to handle user interactions, including upvotes/downvotes.
+      - Integrated API fetch requests to retrieve movie data and PATCH requests to update vote counts.
+      - Created a movie details view, allowing users to access additional information like descriptions and genres.
+
+  - title: "[Viewing-Party-API](https://github.com/mhaefling/viewing-party-api)" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Developed a Ruby on Rails backend that integrates with The Movie DB API to retrieve movie data.
+      - Implemented CRUD functionality to allow users to create, update, and manage viewing parties.
+      - Created user data retrieval features, allowing users to see the parties they are hosting and attending.
+

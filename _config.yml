@@ -1,18 +1,15 @@
-title: My Portfolio Site
+title: Matthew Haefling's Dev Profile
 profile_img: /assets/img/logo.png
 icon_img: /assets/img/logo.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Matthew Haefling"
+job: "Software Engineer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 720-921-5318
+address: 6830 Narrow Gauge St. Colorado Springs, CO 80911
+email: mhaefling@protonmail.com
+linkedin_username: matthew-haefling
+github_username: mhaefling
 
 theme: jekyll-professional-resume
 

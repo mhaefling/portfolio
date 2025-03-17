@@ -2,21 +2,27 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Keysight Technologies Inc.
+    role: Customer Account Specialist
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Provide dedicated and professional support to 20+ Account Managers by assisting with quotes, processing orders, and resolving customer inquiries, ensuring seamless operations.
+      - Collaborated with the software development team to test, refine, and enhance a new order management system, utilizing JIRA for bug tracking, issue resolution, and user feedback.
+      - Led process improvement initiatives, identifying inefficiencies in order processing and contributing key insights that streamlined operations and supported company acquisitions.
+      - Recognized as a Top Performer for exceeding key performance metrics and fostering a culture of collaboration and efficiency, ensuring seamless customer operations.
+    date: Aug. 2021 - Aug. 2024
+  - title: UbreakiFix / Asurion
+    role: Electronic Repair Technician
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Diagnosed and resolved hardware, software, and network-related issues across a variety of devices, ensuring seamless functionality and security for customers.
+      - Performed system updates, diagnostics, and data recovery using manufacturer-proprietary tools such as Apple iTunes restores and Samsung test suite applications.
+      - Gained hands-on experience with secure system resets, firmware updates, and data integrity processes, aligning with best practices in cybersecurity and compliance.
+      - Developed strong problem-solving and technical debugging skills, contributing to an efficient repair workflow while maintaining a customer-first approach.
+    date: Jan. 2021 - Aug. 2021
+  - title: T-Mobile Inc
+    role: Senior Account Expert
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Diagnosed and resolved software, hardware, and network connectivity issues, ensuring seamless service and minimal disruptions for a high volume of users.
+      - Specialized in technical troubleshooting and issue escalation, delivering tailored solutions that restored customer trust and optimized system performance.
+      - Identified recurring technical issues and provided valuable feedback to management, contributing to system improvements and enhanced troubleshooting protocols.
+      - Consistently exceeded key performance metrics in issue resolution time, first-call resolution, and customer satisfaction, earning recognition for technical excellence.
+    date: Oct. 2015 - Aug. 2020
