@@ -2,20 +2,23 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Turing School Of Software And Design, Certificate of Fullstack Software Development
+  - title: "[Turing School Of Software And Design](https://turing.edu/), Certificate of Fullstack Software Development"
     description:
-      - Gained proficiency in Ruby and JavaScript, mastering fundamental programming concepts and best practices.
+      - Proficiency in Ruby and JavaScript, mastering fundamental programming concepts and best practices.
       - Developed applications using Ruby on Rails, including routes, controllers, models, gateways, serializers, and error handling to build scalable backend systems.
       - Implemented API integrations and data serialization techniques to facilitate seamless communication between backend and frontend systems.
       - Built dynamic frontend applications with React, leveraging components, state variables, and useEffect to manage application logic and user interactions.
-
     date: Oct. 2024 - Jun. 2025
-  - title: Erwin Technical College, CompTIA A+ Certificaiton
+
+  - title: "[Erwin Technical College](https://www.hillsboroughschools.org/erwin), CompTIA A+ Certificaiton"
     description:
       - Developed a strong foundation in software and hardware fundamentals, focusing on system maintenance, troubleshooting, and optimization.
       - Acquired proficiency in multiple operating systems, understanding their use cases, maintenance, and security best practices.
       - Earned CompTIA A+ certification, demonstrating expertise in diagnosing and resolving software, hardware, and connectivity issues, including remote troubleshooting.
-
     date: Jan. 2004 - Jul. 2004
-  - title: Riverview High School
-    date: Aug. 1999 - Jan. 2003
+
+  - title: "[CompTIA Certifications](https://www.comptia.org/)"
+    description:
+      - A+
+      - Network+
+      - Security+

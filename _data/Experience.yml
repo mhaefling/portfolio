@@ -2,7 +2,7 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Keysight Technologies Inc.
+  - title: "[Keysight Technologies Inc.](https://www.keysight.com/us/en/home.html)"
     role: Customer Account Specialist
     description:
       - Provide dedicated and professional support to 20+ Account Managers by assisting with quotes, processing orders, and resolving customer inquiries, ensuring seamless operations.
@@ -10,7 +10,8 @@ contents:
       - Led process improvement initiatives, identifying inefficiencies in order processing and contributing key insights that streamlined operations and supported company acquisitions.
       - Recognized as a Top Performer for exceeding key performance metrics and fostering a culture of collaboration and efficiency, ensuring seamless customer operations.
     date: Aug. 2021 - Aug. 2024
-  - title: UbreakiFix / Asurion
+
+  - title: "[UbreakiFix / Asurion](https://www.ubreakifix.com/locations/coloradosprings)"
     role: Electronic Repair Technician
     description: 
       - Diagnosed and resolved hardware, software, and network-related issues across a variety of devices, ensuring seamless functionality and security for customers.
@@ -18,7 +19,8 @@ contents:
       - Gained hands-on experience with secure system resets, firmware updates, and data integrity processes, aligning with best practices in cybersecurity and compliance.
       - Developed strong problem-solving and technical debugging skills, contributing to an efficient repair workflow while maintaining a customer-first approach.
     date: Jan. 2021 - Aug. 2021
-  - title: T-Mobile Inc
+
+  - title: "[T-Mobile Inc](https://www.t-mobile.com/?INTNAV=tNav:Home)"
     role: Senior Account Expert
     description: 
       - Diagnosed and resolved software, hardware, and network connectivity issues, ensuring seamless service and minimal disruptions for a high volume of users.
