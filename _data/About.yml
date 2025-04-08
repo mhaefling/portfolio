@@ -4,16 +4,19 @@ icon: "/assets/img/about.png"
 contents:
   - title: About Me
     description: 
-      - Hi, I’m Matt Haefling, a software developer with a passion for solving complex problems and creating efficient, user-friendly solutions. My journey into tech comes after more than 13 years in fast-paced customer service roles, where I developed skills in active listening, multitasking, troubleshooting, and de-escalation. Through these experiences, I saw firsthand how software limitations and miscommunication often led to customer frustration—so I decided to be part of the solution.
+      - Hi, I’m Matt Haefling — a husband, brother, dog and cat dad, and proud homeowner. I’m currently transitioning into software development after more than a decade of working in customer service roles. My love for technology began early; I earned my CompTIA A+ certification shortly after high school and have always had a fascination with computers, how they work, and how they can be used to solve everyday problems.
+      - Over the years, I worked at companies like Progressive Insurance, T-Mobile, and Keysight Technologies. In those roles, I developed strong communication and problem-solving skills, becoming especially skilled at active listening, troubleshooting, multitasking, and de-escalation. At T-Mobile, I moved into a leadership support role as a Senior Account Expert, where I mentored colleagues and helped streamline call experiences by identifying common customer pain points.
     
   - title: Why Software Development?
     description: 
-      - Transitioning into software development felt like a natural step. I wanted to leverage my deep understanding of business operations and customer interactions to build better, more intuitive software. My goal is to create systems that empower employees to resolve issues efficiently, streamline repetitive tasks, and provide customers with seamless self-service tools. I’m passionate about bridging the gap between technology and real-world usability, ensuring that the software we rely on actually improves our daily interactions.
+      - During my time in customer service, I noticed a recurring theme. Many customer frustrations stemmed from software limitations and poor user experience — not just human error. That realization inspired me to shift gears and pursue a career in software development.
+      - Over the past two years, I’ve earned my CompTIA Network+ and Security+ certifications through dedicated self-study and began immersing myself in programming. I’m especially interested in building software that’s intuitive, user-focused, and genuinely helpful — tools that reduce confusion and make workflows more efficient. I believe my deep understanding of customer needs gives me a unique perspective when it comes to creating meaningful, user-centered software solutions.
 
   - title: Beyond the Code
     description: 
-      - Outside of work, I’m a husband, a homeowner, and a proud dog and cat dad. When I’m not coding, you’ll likely find me hiking, working out, or tinkering with computers—whether it’s repairing hardware or optimizing network setups. I love connecting with people who share a passion for technology, whether in software development, infrastructure, or beyond.
+      - Outside of tech, I’m a big fan of the outdoors and hands-on work. I love hiking, working out, and building and repairing custom PCs and electronics. Whether I’m troubleshooting a line of code or fixing a busted GPU, I enjoy the process of learning how things work and finding practical solutions to problems.
 
   - title: What’s Next?
     description: 
-      - I’m excited to continue growing as a developer, with a strong interest in infrastructure as code and network automation. My ultimate goal is to work on scalable, automated solutions that enhance efficiency and reliability across industries.
+      - As I grow my skills as a software developer, I’m also looking ahead to my long-term goal, working in web application security. I want to bring together my knowledge of networking, cybersecurity, and development to help build safer, more secure digital platforms.
+      - I hope to join a company that empowers its employees to keep learning, growing, and innovating — and one that takes user privacy and data security seriously. Ultimately, I want to contribute to software that not only works well but protects the people who use it.
