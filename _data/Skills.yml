@@ -3,69 +3,249 @@ listing-order: 3
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-    "
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="50"/><br/>
+          <small>Ruby</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/><br/>
+          <small>JavaScript</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50"/><br/>
+          <small>TypeScript</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/><br/>
+          <small>HTML</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50"/><br/>
+          <small>css</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50"/><br/>
+          <small>SQL</small>
+        </div>
+
+      </div>
+    
   - title: Frameworks
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg)
-    "
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="50"/><br/>
+          <small>Ruby on Rails</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/><br/>
+          <small>React</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50"/><br/>
+          <small>Tailwind CSS</small>
+        </div>
+
+      </div>
 
   - title: Testing
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain-wordmark.svg)
-    "
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" width="50"/><br/>
+          <small>RSpec</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50"/><br/>
+          <small>Cypress</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain.svg" width="50"/><br/>
+          <small>CircleCI</small>
+        </div>
+
+      </div>
 
   - title: Version Control
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg)
-    "
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="50"/><br/>
+          <small>Git</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/><br/>
+          <small>GitHub</small>
+        </div>
+        
+      </div>
 
   - title: Databases
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg)
-    "
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50"/><br/>
+          <small>PostgreSQL</small>
+        </div>
+        
+      </div>
 
   - title: Tools
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg)
-    "
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50"/><br/>
+          <small>NodeJS</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50"/><br/>
+          <small>NPM</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" width="50"/><br/>
+          <small>Vite</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/><br/>
+          <small>Postman</small>
+        </div>
+        
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50"/><br/>
+          <small>Jupyter</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50"/><br/>
+          <small>Bash</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50"/><br/>
+          <small>PowerShell</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" width="50"/><br/>
+          <small>Secure       Shell</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="50"/><br/>
+          <small>JSON</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" width="50"/><br/>
+          <small>Heroku</small>
+        </div>
+
+      </div>
+
   - title: IDE's
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg)
-    "
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50"/><br/>
+          <small>VSCode</small>
+        </div>
+        
+      </div>
 
   - title: Operating Systems
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg)
-    "
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50"/><br/>
+          <small>Windows</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="50"/><br/>
+          <small>MacOS</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/><br/>
+          <small>Linux</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="50"/><br/>
+          <small>Fedora</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50"/><br/>
+          <small>Ubuntu</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="50"/><br/>
+          <small>Arch</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" width="50"/><br/>
+          <small>Android</small>
+        </div>
+        
+      </div>
 
   - title: Communication
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original-wordmark.svg)
-    "
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="50"/><br/>
+          <small>Slack</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://www.svgrepo.com/show/448240/microsoft-teams.svg" width="50"/><br/>
+          <small>Teams</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://www.svgrepo.com/show/373951/outlook.svg" width="50"/><br/>
+          <small>Outlook</small>
+        </div>
+
+  - title: Currently Learning
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/><br/>
+          <small>Python</small>
+        </div>
+
+        <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50"/><br/>
+          <small>PyCharm</small>
+        </div>
+        
+      </div>

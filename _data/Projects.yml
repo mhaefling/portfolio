@@ -2,6 +2,16 @@ subject: Projects
 listing-order: 5
 icon: "/assets/img/clipboard-list.svg"
 contents:
+  - title: "[Tracker](https://github.com/turingschool/tracker-crm-fe)"
+    description:
+      <div>
+
+        <div style="display:inline-block; text-align:left; margin:10px;">
+          <small>Tracker is a web-based application designed to streamline the job search process by allowing users to organize and monitor their job applications, associated companies, and professional contacts. It also enhances interview preparedness by generating mock interview questions tailored to each job description.</small>
+        </div>
+        
+      </div>
+
   - title: "[Herbal Blends](https://github.com/mhaefling/herbal-blends-fe)"
     description: 
       - Herbal Blends is a full-stack application designed for a small tea business offering weekly and monthly subscription plans. The application manages subscriptions, teas, and customer data, providing a seamless experience for both the business and its customers.

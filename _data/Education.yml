@@ -2,23 +2,19 @@ subject: Education
 listing-order: 2
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: "[Turing School Of Software And Design](https://turing.edu/), Certificate of Fullstack Software Development"
-    description:
-      - Proficiency in Ruby and JavaScript, mastering fundamental programming concepts and best practices.
-      - Developed applications using Ruby on Rails, including routes, controllers, models, gateways, serializers, and error handling to build scalable backend systems.
-      - Implemented API integrations and data serialization techniques to facilitate seamless communication between backend and frontend systems.
-      - Built dynamic frontend applications with React, leveraging components, state variables, and useEffect to manage application logic and user interactions.
+  - title: "[Turing School Of Software And Design](https://turing.edu/)"
+    description: 
+      - Certificate of Fullstack Software Development
+      - Student Leadership Committee
     date: Oct. 2024 - Jun. 2025
 
-  - title: "[Erwin Technical College](https://www.hillsboroughschools.org/erwin), CompTIA A+ Certificaiton"
+  - title: "[Erwin Technical College](https://www.hillsboroughschools.org/erwin)"
     description:
-      - Developed a strong foundation in software and hardware fundamentals, focusing on system maintenance, troubleshooting, and optimization.
-      - Acquired proficiency in multiple operating systems, understanding their use cases, maintenance, and security best practices.
-      - Earned CompTIA A+ certification, demonstrating expertise in diagnosing and resolving software, hardware, and connectivity issues, including remote troubleshooting.
+      - CompTIA A+ Certificaiton
     date: Jan. 2004 - Jul. 2004
 
-  - title: "[CompTIA Certifications](https://www.comptia.org/)"
+  - title: "Certifications"
     description:
-      - A+
-      - Network+
-      - Security+
+      <a href="https://www.comptia.org/certifications/a"><img src="../assets/img/comptia-a-certification.5.png" /></a>
+      <a href="https://www.comptia.org/certifications/network"><img src="../assets/img/comptia-network-ce-certification.1.png" /></a>
+      <a href="https://www.comptia.org/certifications/security"><img src="../assets/img/comptia-security-ce-certification.png" /></a>
