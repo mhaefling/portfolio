@@ -5,7 +5,7 @@ contents:
   - title: |
       <div style="display: flex; align-items: center; gap: 10px; margin:0px;">
         <a href="https://github.com/turingschool/tracker-crm-fe"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 /></a>
-        <img src="../assets/img/tracker-icon.png" width="50"/>
+        <img src="/assets/img/tracker-icon.png" width="50"/>
         <h1 style="margin: 0;"><a href="https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/">Tracker</a></h1>
       </div>
 
@@ -17,10 +17,12 @@ contents:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" width="30"/>
-          <img src="../assets/img/factory-bot.webp" width="30"/>
+          <img src="/assets/img/factory-bot.webp" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
+          <img src="/assets/img/react-router.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
 
@@ -41,7 +43,7 @@ contents:
   - title: |
       <div style="display: flex; align-items: center; gap: 10px; margin:0px;">
         <a href="https://github.com/mhaefling/herbal-blends-fe"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 /></a>
-        <img src="../assets/img/herbal-blends-logo.jpg" width="50"/>
+        <img src="/assets/img/herbal-blends-logo.jpg" width="50"/>
         <h1 style="margin: 0;">Herbal Blends</h1>
       </div>
 
@@ -54,7 +56,10 @@ contents:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
+          <img src="/assets/img/react-router.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30"/>
 
           <h4><u>Learning Goals:</u></h4>
@@ -71,16 +76,68 @@ contents:
 
         </div>
 
-  - title: "[Rancid-Tomatillos](https://github.com/mhaefling/rancid-tomatillos)"
-    description: 
-      - Developed a React frontend to display movie posters dynamically retrieved from a backend API.
-      - Implemented state management to handle user interactions, including upvotes/downvotes.
-      - Integrated API fetch requests to retrieve movie data and PATCH requests to update vote counts.
-      - Created a movie details view, allowing users to access additional information like descriptions and genres.
+  - title: |
+      <div style="display: flex; align-items: center; gap: 10px; margin:0px;">
+        <a href="https://github.com/mhaefling/rancid-tomatillos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 /></a>
+        <img src="/assets/img/rancid-logo.png" width="50"/>
+        <a href="https://rancid-tomatillos-u5bo.onrender.com/"><h1 style="margin: 0;">Rancid-Tomatillos</h1></a>
+      </div>
+    description: |
+      <div style="text-align:left; margin:0px; padding=0px;">
 
-  - title: "[Viewing-Party-API](https://github.com/mhaefling/viewing-party-api)" 
-    description: 
-      - Developed a Ruby on Rails backend that integrates with The Movie DB API to retrieve movie data.
-      - Implemented CRUD functionality to allow users to create, update, and manage viewing parties.
-      - Created user data retrieval features, allowing users to see the parties they are hosting and attending.
+        <p>Rancid Tomatillos is a front-end web application built with React that emulates a movie review platform. The application retrieves movie data by making asynchronous requests to a backend API using the Fetch API. It presents the movies in a dynamic, responsive grid of posters, allowing users to interact with each title through intuitive upvote and downvote buttons. Additionally, users can click on any movie poster to view detailed information about the selected film, enhancing the overall user experience with smooth navigation and real-time updates.</p>
+          
+        <h4><u>Tech Stack:</u></h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
+        <img src="/assets/img/react-router.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30"/>
+
+        <h4><u>Learning Goals:</u></h4>
+        <p>This project marked our first paired programming collaboration, with a focus on deepening our understanding of React. Key objectives included developing reusable components to promote modular and maintainable code, leveraging the Fetch API to perform asynchronous calls to a backend service, and implementing React Router to enable dynamic, client-side routing for an improved user experience.</p>
+
+        <h4><u>Contributions:</u></h4>
+        <div style="margin-left: 20px;">
+          <p>• Implemented a Fetch function to retrieve movie poster data from the backend API and efficiently stored the response in a state variable for use throughout the application.</p>
+          <p>• Collaborated with a partner to architect the application using reusable React components, while gaining a strong understanding of data flow and effectively passing props to ensure seamless communication between components.</p>
+          <p>• Refactored multiple PATCH request functions into a single dynamic function to efficiently update individual movie vote counts, improving code maintainability and reducing redundancy.</p>
+          <p>• Developed a dedicated Movie Details component to display additional information, including a full movie description, genres, and a high-resolution backdrop image, enhancing user engagement and interface depth.</p>
+          <p>• Collaborated with a partner to research and implement React Router for dynamic URL routing, enabling seamless navigation and individualized movie detail pages within the application.</p>
+        </div>
+
+      </div>
+
+  - title: |
+      <div style="display: flex; align-items: center; gap: 10px; margin:0px;">
+        <a href="https://github.com/mhaefling/viewing-party-api"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 /></a>
+        <img src="/assets/img/viewing-party-icon.png" width="50"/>
+        <h1 style="margin: 0;"><a href="https://dry-headland-80834-a0895494fc50.herokuapp.com/">Viewing Party API</a></h1>
+      </div>
+
+    description: |
+      <div style="text-align:left; margin:0px; padding=0px;">
+        <p>Viewing Party API is a Ruby on Rails backend service that integrates with The Movie Database (TMDb) API to deliver rich movie-related data. It enables users to search for movies currently playing in theaters, top-rated films, titles by keyword, and movies filtered by average vote or unique ID. In addition to robust search functionality, the API allows users to create and manage custom viewing parties, specifying the movie to be watched, scheduling start and end times, assigning a party name, and inviting other users by their IDs.</p>
+          
+        <h4><u>Tech Stack:</u></h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30"/>
+
+        <h4><u>Learning Goals:</u></h4>
+        <p>This project served as an opportunity to independently demonstrate backend development skills by building a fully functional API. Key objectives included consuming data from an external API using Faraday, designing and integrating service objects and Plain Old Ruby Objects (POROs), and applying the principles of RESTful architecture to create clean, maintainable routes and endpoints.</p>
+
+        <h4><u>Contributions:</u></h4>
+        <div style="margin-left: 20px;">
+          <p>• Designed the backend database schema and implemented table migrations to establish clear data relationships and support the application’s core functionality with a scalable, well-structured data model.</p>
+          <p>• Utilized the Faraday gem to consume data from an external API, and implemented a gateway pattern to manage and structure requests to specific API endpoints using query parameters for efficient data retrieval.</p>
+          <p>• Designed a Plain Old Ruby Object (PORO) to encapsulate individual movie data, enabling seamless integration with the JSON serializer for structured and consistent API responses.</p>
+          <p>• Developed a model-level helper method to validate invited users for a viewing parties, ensuring only existing users were included and filtering out invalid entries to prevent errors and enhance the overall user experience.</p>
+          <p>• Manually crafted custom model serializers to deliver tailored JSON responses, ensuring users received only the relevant and structured data needed.</p>
+        </div>
+
+      </div>
 

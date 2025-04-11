@@ -126,6 +126,11 @@ contents:
           <small>Vite</small>
         </div>
 
+      <div style="display:inline-block; text-align:center; margin:10px;">
+          <img src="/assets/img/react-router.svg" width="50"/><br/>
+          <small>React Router</small>
+        </div>
+
         <div style="display:inline-block; text-align:center; margin:10px;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/><br/>
           <small>Postman</small>
