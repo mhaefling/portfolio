@@ -2,24 +2,74 @@ subject: Projects
 listing-order: 5
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "[Tracker](https://github.com/turingschool/tracker-crm-fe)"
-    description:
-      <div>
-
-        <div style="display:inline-block; text-align:left; margin:10px;">
-          <small>Tracker is a web-based application designed to streamline the job search process by allowing users to organize and monitor their job applications, associated companies, and professional contacts. It also enhances interview preparedness by generating mock interview questions tailored to each job description.</small>
-        </div>
-        
+  - title: |
+      <div style="display: flex; align-items: center; gap: 10px; margin:0px;">
+        <a href="https://github.com/turingschool/tracker-crm-fe"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 /></a>
+        <img src="../assets/img/tracker-icon.png" width="50"/>
+        <h1 style="margin: 0;"><a href="https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/">Tracker</a></h1>
       </div>
 
-  - title: "[Herbal Blends](https://github.com/mhaefling/herbal-blends-fe)"
-    description: 
-      - Herbal Blends is a full-stack application designed for a small tea business offering weekly and monthly subscription plans. The application manages subscriptions, teas, and customer data, providing a seamless experience for both the business and its customers.
-      - Developed a Rails API backend with CRUD functionality for managing
-      - Subscriptions, Customers, Teas – Create, view, update (deactivate), and list all subscriptions.
-      - Built a React-based user interface with modular components for
-      - Displaying all available teas, Listing all customers and their subscription details, Viewing all active subscriptions, including tea types, subscribed customers, renewal frequency (weekly or monthly), and pricing.
-      - Enabled subscription detail views, allowing users to click and explore the full details of any subscription.
+    description: |
+        <div style="text-align:left; margin:0px; padding=0px;">
+          <p>Tracker is a full-stack web-based application, collaboratively developed by three Turing School cohorts, designed to optimize and simplify the job search process. It enables users to efficiently organize and track job applications, associated companies, and professional contacts. Users can document detailed notes for each opportunity, monitor their progress throughout the application lifecycle, and maintain a clear overview of their job search efforts. Additionally, Tracker supports interview preparation by generating personalized mock interview questions based on job descriptions.</p>
+          
+          <h4><u>Tech Stack:</u></h4>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" width="30"/>
+          <img src="../assets/img/factory-bot.webp" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
+
+          <h4><u>Learning Goals:</u></h4>
+          <p>Aimed to develop a strong understanding of brownfield codebase maintenance, with a focus on learning and applying TypeScript declarations and interfaces to improve type safety and code clarity.</p>
+
+          <h4><u>Contributions:</u></h4>
+          <div style="margin-left: 20px;">
+            <p>• Refactored the login component by separating the authentication forms (login and user registration) from the sidebar containing the Tracker logo and slogan, resulting in improved code organization and maintainability. Applied Tailwind CSS to ensure a consistent and visually appealing design across both forms, including the implementation of interactive hover effects for enhanced user experience.</p>
+            <p>• Integrated FactoryBot and Faker into the Ruby on Rails backend to streamline test data generation, enabling the creation of consistent, reusable, and realistic test objects for improved reliability and efficiency in automated testing.</p>
+            <p>• Refactored the job application component to enhance user experience by implementing a helper function that validates and standardizes the application URL input. The function automatically appends the appropriate HTTP protocol (http:// or https://) if omitted, ensuring consistent and functional links across the application.</p>
+            <p>• Implemented Brakeman, a static analysis security tool, within the Ruby on Rails backend to proactively identify and address potential security vulnerabilities, strengthening the application’s overall security posture during development.</p>
+            <p>• Led the planning and implementation of a directory restructure for the React frontend components, optimizing the project’s organization to enhance maintainability and streamline collaboration for future contributors.</p>
+          </div>
+
+        </div>
+
+  - title: |
+      <div style="display: flex; align-items: center; gap: 10px; margin:0px;">
+        <a href="https://github.com/mhaefling/herbal-blends-fe"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 /></a>
+        <img src="../assets/img/herbal-blends-logo.jpg" width="50"/>
+        <h1 style="margin: 0;">Herbal Blends</h1>
+      </div>
+
+    description: |
+        <div style="text-align:left; margin:0px; padding=0px;">
+          <p>Herbal Blends is a full-stack web application designed as the foundation for a small-scale e-commerce business offering weekly and monthly tea subscription services. The application includes a dedicated admin portal that enables Herbal Blends employees to efficiently manage inventory, maintain customer accounts, and oversee active subscription plans. Key features include the ability to view and update customer information, modify subscription details, and activate or deactivate tea offerings—supporting streamlined business operations and enhancing overall administrative control.</p>
+          
+          <h4><u>Tech Stack:</u></h4>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30"/>
+
+          <h4><u>Learning Goals:</u></h4>
+          <p>This project marked my first solo development of a full-stack web application, providing a hands-on opportunity to deepen my understanding of React, React Router, and core React concepts such as useState and useParams. It served as a foundational experience in building and managing client-side functionality within a dynamic user interface.</p>
+
+          <h4><u>Contributions:</u></h4>
+          <div style="margin-left: 20px;">
+            <p>• Developed a Ruby on Rails backend API implementing full CRUD functionality for managing subscriptions, customers, and teas, utilizing RESTful routes to ensure scalable and maintainable resource management.</p>
+            <p>• Integrated the JSONAPI::Serializer gem to structure and standardize API responses, enabling efficient and consistent data rendering on the frontend.</p>
+            <p>• Developed a React-based user interface composed of modular, reusable components to display available teas, list customers with their subscription details, and present active subscriptions, including tea types, subscribed customers, renewal frequency (weekly or monthly), and pricing information.</p>
+            <p>• Designed and implemented a detailed subscription view component, enabling users to view comprehensive subscription information—including renewal frequency, pricing, included teas, and subscriber status (active/inactive). Each tea item is clickable, providing additional details such as brew temperature, brew time, and a general description.</p>
+            <p>• Authored comprehensive Cypress tests to validate frontend functionality and ensure responsiveness across various user interactions and viewports.</p>
+          </div>
+
+        </div>
 
   - title: "[Rancid-Tomatillos](https://github.com/mhaefling/rancid-tomatillos)"
     description: 
