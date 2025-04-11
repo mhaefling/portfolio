@@ -15,6 +15,6 @@ contents:
 
   - title: "Certifications"
     description:
-      <a href="https://www.comptia.org/certifications/a"><img src="/assets/img/comptia-a-certification.5.png" /></a>
-      <a href="https://www.comptia.org/certifications/network"><img src="/assets/img/comptia-network-ce-certification.1.png" /></a>
-      <a href="https://www.comptia.org/certifications/security"><img src="/assets/img/comptia-security-ce-certification.png" /></a>
+      <a href="https://www.comptia.org/certifications/a"><img src="./assets/img/comptia-a-certification.5.png" /></a>
+      <a href="https://www.comptia.org/certifications/network"><img src="./assets/img/comptia-network-ce-certification.1.png" /></a>
+      <a href="https://www.comptia.org/certifications/security"><img src="./assets/img/comptia-security-ce-certification.png" /></a>

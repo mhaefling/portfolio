@@ -127,7 +127,7 @@ contents:
         </div>
 
       <div style="display:inline-block; text-align:center; margin:10px;">
-          <img src="/assets/img/react-router.svg" width="50"/><br/>
+          <img src="./assets/img/react-router.svg" width="50"/><br/>
           <small>React Router</small>
         </div>
 

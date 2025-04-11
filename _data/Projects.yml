@@ -5,7 +5,7 @@ contents:
   - title: |
       <div style="display: flex; align-items: center; gap: 10px; margin:0px;">
         <a href="https://github.com/turingschool/tracker-crm-fe"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 /></a>
-        <img src="/assets/img/tracker-icon.png" width="50"/>
+        <img src="./assets/img/tracker-icon.png" width="50"/>
         <h1 style="margin: 0;"><a href="https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/">Tracker</a></h1>
       </div>
 
@@ -17,9 +17,9 @@ contents:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" width="30"/>
-          <img src="/assets/img/factory-bot.webp" width="30"/>
+          <img src="./assets/img/factory-bot.webp" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
-          <img src="/assets/img/react-router.svg" width="30"/>
+          <img src="./assets/img/react-router.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
@@ -43,7 +43,7 @@ contents:
   - title: |
       <div style="display: flex; align-items: center; gap: 10px; margin:0px;">
         <a href="https://github.com/mhaefling/herbal-blends-fe"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 /></a>
-        <img src="/assets/img/herbal-blends-logo.jpg" width="50"/>
+        <img src="./assets/img/herbal-blends-logo.jpg" width="50"/>
         <h1 style="margin: 0;">Herbal Blends</h1>
       </div>
 
@@ -56,7 +56,7 @@ contents:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
-          <img src="/assets/img/react-router.svg" width="30"/>
+          <img src="./assets/img/react-router.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
@@ -79,7 +79,7 @@ contents:
   - title: |
       <div style="display: flex; align-items: center; gap: 10px; margin:0px;">
         <a href="https://github.com/mhaefling/rancid-tomatillos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 /></a>
-        <img src="/assets/img/rancid-logo.png" width="50"/>
+        <img src="./assets/img/rancid-logo.png" width="50"/>
         <a href="https://rancid-tomatillos-u5bo.onrender.com/"><h1 style="margin: 0;">Rancid-Tomatillos</h1></a>
       </div>
     description: |
@@ -89,7 +89,7 @@ contents:
           
         <h4><u>Tech Stack:</u></h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
-        <img src="/assets/img/react-router.svg" width="30"/>
+        <img src="./assets/img/react-router.svg" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
@@ -112,7 +112,7 @@ contents:
   - title: |
       <div style="display: flex; align-items: center; gap: 10px; margin:0px;">
         <a href="https://github.com/mhaefling/viewing-party-api"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 /></a>
-        <img src="/assets/img/viewing-party-icon.png" width="50"/>
+        <img src="./assets/img/viewing-party-icon.png" width="50"/>
         <h1 style="margin: 0;"><a href="https://dry-headland-80834-a0895494fc50.herokuapp.com/">Viewing Party API</a></h1>
       </div>
 
